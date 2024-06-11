@@ -12,7 +12,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: "Restaurant Page",
+            title: "Drop Down Menu",
             filename: "index.html",
             template: "./src/index.html",
             inject: "head",
